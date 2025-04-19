@@ -1,4 +1,4 @@
-## Clinical Voice Assistant  
+## Clinical Assistant  
 **AI-Driven Personalized Health Assistant with Context-Aware Responses and Multilingual Voice Interaction**
 
 ### Overview
@@ -56,7 +56,7 @@ Each dataset is linked via a unique patient ID to support dynamic personalizatio
 
 #### Clone the Repository
 ```bash
-git clone https://github.com/Yaswanth1702/clinical-voice-assistant.git
+git clone https://github.com/Yaswanth1702/clinical-assistant.git
 cd clinical-voice-assistant
 ```
 
