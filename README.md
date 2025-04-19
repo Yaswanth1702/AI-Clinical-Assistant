@@ -60,11 +60,6 @@ git clone https://github.com/Yaswanth1702/clinical-voice-assistant.git
 cd clinical-voice-assistant
 ```
 
-#### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 #### Launch the Assistant
 ```bash
 jupyter notebook Clinical_Assistant.ipynb
