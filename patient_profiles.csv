@@ -1,0 +1,4 @@
+patient_id,name,age,gender,date_of_birth,preferred_language,reading_level,address,patient_name
+P001,Linda Thompson,58,female,1966-05-30,English,intermediate,"123 Main St, Marquette, MI",Linda Thompson
+P002,Ravi Patel,45,male,1979-07-12,Hindi,basic,"88 Residency Rd, Bangalore, India",Ravi Patel
+P003,Sofia Ramirez,32,female,1992-03-05,Spanish,advanced,"456 Elm St, San Diego, CA",Sofia Ramirez

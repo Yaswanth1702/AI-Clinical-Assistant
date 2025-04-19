@@ -1,0 +1,4 @@
+patient_id,day,weight,systolic_bp,diastolic_bp,heart_rate,steps,sleep_duration,sleep_quality,patient_name
+P001,2,179.8,128,82,72,3900,460,4.0,Linda Thompson
+P002,2,164.9,138,88,74,4300,420,3.5,Ravi Patel
+P003,2,135.2,117,76,69,5200,430,3.0,Sofia Ramirez

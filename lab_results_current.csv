@@ -1,0 +1,4 @@
+patient_id,lab_date,BNP,glucose,hemoglobin,creatinine,patient_name,interpretation
+P001,2025-04-06,240,105,12.2,1.0,Linda Thompson,Prediabetic range; High BNP (possible heart failure); Normal hemoglobin; Normal creatinine
+P002,2025-04-06,50,160,13.7,0.8,Ravi Patel,High glucose (diabetes); Normal BNP; Normal hemoglobin; Normal creatinine
+P003,2025-04-06,38,92,14.0,0.7,Sofia Ramirez,Normal glucose; Normal BNP; Normal hemoglobin; Normal creatinine

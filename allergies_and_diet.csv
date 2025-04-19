@@ -1,0 +1,4 @@
+patient_id,food_allergies,drug_allergies,diet_type,avoid_foods,food_intolerances,patient_name
+P001,"['peanuts', 'pineapple']",['penicillin'],low sodium,['caffeine'],['lactose'],Linda Thompson
+P002,[],['aspirin'],vegetarian,[],[],Ravi Patel
+P003,['shellfish'],[],vegan,['red meat'],['gluten'],Sofia Ramirez

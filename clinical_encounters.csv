@@ -1,0 +1,4 @@
+patient_id,admission_date,discharge_date,diagnoses,medications,discharge_instructions,care_plan_goals,patient_name
+P001,2025-03-30,2025-04-02,"['HFpEF', 'Fatigue']","['Lasix', 'Metoprolol']","Low-sodium diet, monitor weight, light exercise","['Reduce BNP', 'Improve sleep quality']",Linda Thompson
+P002,2025-03-20,2025-03-25,"['Type 2 Diabetes', 'Hypertension']","['Metformin', 'Lisinopril']","Monitor blood sugar, take meds, avoid fried food","['Lower blood glucose', 'Reduce BP']",Ravi Patel
+P003,2025-04-04,2025-04-07,"['Migraine', 'Insomnia']",['Topiramate'],"Maintain sleep hygiene, hydration, avoid triggers","['Reduce headaches', 'Increase sleep hours']",Sofia Ramirez

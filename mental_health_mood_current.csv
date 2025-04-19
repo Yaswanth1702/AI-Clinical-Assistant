@@ -1,0 +1,4 @@
+patient_id,day,mood,stress_level,depression_score,patient_name
+P001,2,neutral,5,5.0,Linda Thompson
+P002,2,calm,4,3.0,Ravi Patel
+P003,2,better,5,6.0,Sofia Ramirez
