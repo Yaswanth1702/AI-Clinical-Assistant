@@ -67,17 +67,3 @@ jupyter notebook Clinical_Assistant.ipynb
 
 Ensure your device microphone and speakers are enabled for full interaction.
 
-
-### Demonstration
-
-A live demonstration of the assistant is available here:  
-**[Watch the Demo on YouTube]([https://www.youtube.com/watch?v=your-video-link](https://www.youtube.com/watch?v=0j4aLRwGb6g])**
-
-The demo shows real-time voice input, patient-specific response generation, and multilingual spoken output using simulated patient data.
-
-
-### Contributors
-
-- **Yaswanth Ganapathi**  
-- **Ganesh Vannam**  
-
